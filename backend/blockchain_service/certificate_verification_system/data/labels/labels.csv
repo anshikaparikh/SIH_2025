@@ -1,0 +1,2 @@
+file_name,certificate_id,student_name,issue_date,hash,blockchain_tx,verified
+sample_cert.png,CR-0001,John Doe,2025-01-10,,,

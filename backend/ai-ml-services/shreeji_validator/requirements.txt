@@ -1,0 +1,36 @@
+# Core
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# OCR
+easyocr
+pytesseract
+opencv-python
+Pillow
+
+# Deep Learning
+torch
+torchvision
+tensorflow  
+
+# NLP / Text
+fuzzywuzzy[speedup]
+nltk
+regex
+
+# API
+fastapi
+uvicorn
+requests
+
+# Blockchain
+web3
+qrcode
+
+# Utils
+tqdm
+python-dotenv
