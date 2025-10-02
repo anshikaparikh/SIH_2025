@@ -16,7 +16,8 @@ A role-based platform to verify academic certificates using OCR, text-anomaly de
 - Role-based UI (Students, Employers, Universities, Admins) built in React + Tailwind  
 - Containerized deployment (Docker)
 
-  Tech Stack
+
+Tech Stack
 - Frontend: React.js, TailwindCSS  
 - Backend: FastAPI (Python) — AI/ML integration; Golang + Gin — high-performance APIs & business logic  
 - Database: PostgreSQL  
